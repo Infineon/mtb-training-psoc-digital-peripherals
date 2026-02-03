@@ -7,6 +7,12 @@ This training introduces common peripherals available on PSOC™ 4, PSOC™ 6, a
 - [PSOC™ 6](https://www.cypress.com/products/psoc-6-microcontrollers-32-bit-arm-cortex-m4m0)
 - [PSOC™ Edge](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
 
+## How to use this training?
+1. Download the training [content](#content).
+2. Watch the video or review the presentation at your own pace.
+3. Follow the step-by-step instructions in the training manual during the hands-on sections.
+4. Use the provided source files if needed to verify the solution. 
+
 ## Training level
 - E2: Intermediate
 
@@ -41,16 +47,10 @@ This training introduces common peripherals available on PSOC™ 4, PSOC™ 6, a
 - Be able to find the documentation for the peripheral driver libraries (PDL)
 
 ## Content
-- [Training video at Infineon Academy]()
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/course/36306674-a876-4bbd-806e-db5002ba6e19)
 - [Presentation](./Presentation/PSOC(TM)%20Digital%20Peripherals%20Training.pdf)
 - [Training manual](./Manual/PSOC(TM)%20Digital%20Peripherals%20Training%20Manual.pdf)
 - [Solution to labs](./Lab_Solutions/)
-
-## How to use this training?
-1. Download the training [content](#content).
-2. Watch the video or review the presentation at your own pace.
-3. Follow the step-by-step instructions in the training manual during the hands-on sections.
-4. Use the provided source files if needed to verify the solution. 
 
 ## References and resources
 - [ModusToolbox™](https://www.cypress.com/products/modustoolbox)
