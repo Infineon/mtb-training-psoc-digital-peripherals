@@ -47,7 +47,7 @@ This training introduces common peripherals available on PSOC™ 4, PSOC™ 6, a
 - Be able to find the documentation for the peripheral driver libraries (PDL)
 
 ## Content
-- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/course/36306674-a876-4bbd-806e-db5002ba6e19)
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/course/30002775-f485-49ca-8794-faedbcc6f1d6)
 - [Presentation](./Presentation/PSOC(TM)%20Digital%20Peripherals%20Training.pdf)
 - [Training manual](./Manual/PSOC(TM)%20Digital%20Peripherals%20Training%20Manual.pdf)
 - [Solution to labs](./Lab_Solutions/)
